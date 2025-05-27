@@ -6,7 +6,7 @@ This program implements a distributed file-sharing system using **multithreading
 ## 🛠️ Features  
 - 📡 **Multithreading** to handle multiple transfers simultaneously.  
 - 🔗 **TCP** ensures reliable communication between clients and the server.  
-- 🌐 **Multicast** enables efficient discovery and messaging among nodes.  
+- 🌐 **Multicast** enables messaging among nodes.  
 
 ## 📌 Technologies Used  
 - **Java** (Core Java)  
